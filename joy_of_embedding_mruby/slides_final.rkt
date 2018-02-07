@@ -95,6 +95,7 @@
 (slide (para #:align 'center "Joy(‽) of Embedding with mruby"))
 
 ;credits
+(current-font-size 24)
 (slide #:title "Further Reading"
        (para (list (tt "mruby") ": http://mruby.org"))
        (para (list (tt "nginx") ": http://ngx.mruby.org/"))
@@ -102,7 +103,7 @@
        (para (list (tt "web irb") ": http://joshnuss.github.io/mruby-web-irb"))
        (para (list (tt "nginx") ": http://ngx.mruby.org/"))
        (para (list (tt "RubyOnWheelchair") ": http://mruby.sh/201707150753.html"))
-       (para (list (tt "How is Ruby different in Japan?") ": http://engineering.appfolio.com/appfolio-engineering/2017/5/24/how-is-ruby-different-in-japan"))
+       (para (list (tt "Ruby in Japan") ": http://engineering.appfolio.com/appfolio-engineering/2017/5/24/how-is-ruby-different-in-japan"))
        )
 
 (slide #:title "Thanks!"
